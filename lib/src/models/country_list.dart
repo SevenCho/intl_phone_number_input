@@ -6933,7 +6933,7 @@ class Countries {
         "no": "Taiwan",
         "ja": "台湾",
         "it": "Taiwan",
-        "zh": "中国台湾省",
+        "zh": "中国台湾",
         "nl": "Taiwan",
         "de": "Taiwan",
         "fr": "Taïwan",
